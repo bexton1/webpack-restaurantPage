@@ -3,7 +3,7 @@ import "./page-load-home"
 import { loadHomePage } from "./page-load-home";
 import { loadMenu } from "./load-menu";
 import { loadContactInfo } from "./load-contact";
-
+// test
 //loadHomePage()
 document.querySelector('#home').classList.add('actives')
 const homeButton = document.querySelector('#home')
